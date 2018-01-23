@@ -1,0 +1,15 @@
+.container {
+
+}
+.row {
+    /*height: 250px;*/
+    background-color: #9fcdff;
+    color: #0d0e0f;
+}
+
+.col-sm{
+    border: 2px solid black;
+}
+.col {
+    border: 2px solid black;
+}
